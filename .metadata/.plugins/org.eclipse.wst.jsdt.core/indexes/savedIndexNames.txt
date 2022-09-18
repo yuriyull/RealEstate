@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Yuri_Project\SPRING\RealEstate\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+663534870.index
+1039329656.index
+501591822.index
+759426994.index
+3687458037.index
+3686624300.index
+3628422172.index
